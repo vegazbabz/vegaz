@@ -1,2 +1,2 @@
-# Various Azure things
+# Azure Policies
 This page is under construction
