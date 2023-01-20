@@ -13,10 +13,10 @@
  },
  "retentionInDays": {
    "type": "Integer",
-   "defaultValue": 7,
+   "defaultValue": 1,
    "metadata": {
      "displayName": "Retention in Days",
-     "description": "How long should deleted resources be retained for."
+     "description": "How long should deleted resources be retained for. Minimum value is 1 day, maximum is 365 days."
    }
  }
 }
