@@ -56,10 +56,7 @@
   },
   "metadata": {
     "version": "1.0.0",
-    "createdBy": "6288a9ae-ec6d-4916-b00d-a7cfa46afd43",
-    "createdOn": "2023-01-19T14:13:18.8695145Z",
-    "updatedBy": "6288a9ae-ec6d-4916-b00d-a7cfa46afd43",
-    "updatedOn": "2023-01-19T22:08:00.7702665Z"
+    "Category": "Storage"
   },
   "parameters": {
     "effect": {
@@ -83,7 +80,5 @@
       }
     }
   },
-  "id": "/subscriptions/1cb4c4a7-a1eb-4e96-90c1-4d45a4dedc15/providers/Microsoft.Authorization/policyDefinitions/27e53458-eb6b-46ff-b2ea-3776ccfb4593",
-  "name": "27e53458-eb6b-46ff-b2ea-3776ccfb4593",
   "type": "Microsoft.Authorization/policyDefinitions"
 }
