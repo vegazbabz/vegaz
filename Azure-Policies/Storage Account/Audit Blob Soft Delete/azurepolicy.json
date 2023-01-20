@@ -29,7 +29,8 @@
        "type": "String",
        "allowedValues": [
          "Audit",
-         "Disabled"
+         "Disabled",
+         "Deny"
        ],
        "defaultValue": "Audit",
        "metadata": {
